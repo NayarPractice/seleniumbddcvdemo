@@ -1,0 +1,21 @@
+
+e
+java:S1192¾"IDefine a constant instead of duplicating this literal "user.dir" 3 times.(¡óàÇøÿÿÿÿ
+?
+java:S1604‡"(Make this anonymous inner class a lambda(××Êõ
+v
+java:S1488‡"_Immediately return this expression instead of assigning it to the temporary variable "element".(××Êõ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(¾èÖÎøÿÿÿÿ
+D
+java:S2140'")Use "java.util.Random.nextInt()" instead.(Œ£ÕÒıÿÿÿÿ
+Q	java:S125`"<This block of commented-out lines of code should be removed.(ñè›ƒ
+A	java:S106Õ"+Replace this use of System.out by a logger.(ĞÑã£
+]
+java:S1126•"AReplace this if-then-else statement by a single return statement.(¬–¾ûÿÿÿÿÿ
+]
+java:S1126"AReplace this if-then-else statement by a single return statement.(¬–¾ûÿÿÿÿÿ
+X
+java:S1126©"AReplace this if-then-else statement by a single return statement.(‹ÎôÜ
+X
+java:S1126±"AReplace this if-then-else statement by a single return statement.(‹ÎôÜ
