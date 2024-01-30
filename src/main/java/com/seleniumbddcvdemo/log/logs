@@ -1,33 +1,16 @@
-
-2024-01-29 13:36:33 INFO  LoginPage:34 - Clicking on register link :
-2024-01-29 13:36:33 INFO  RegisterPage:27 - Verify Register Text
-2024-01-29 13:36:37 INFO  RegisterPage:59 - Enter User First Name:
-2024-01-29 13:36:39 INFO  RegisterPage:62 - Enter User Last Name:
-2024-01-29 13:36:42 INFO  RegisterPage:65 - Enter User Name:
-2024-01-29 13:36:44 INFO  RegisterPage:68 - Enter Password:
-2024-01-29 13:36:44 INFO  RegisterPage:70 - Click On Register Button:
-2024-01-29 13:36:45 INFO  LoginPage:30 - Verify Register Success Text:
-2024-01-29 13:37:23 INFO  LoginPage:34 - Clicking on register link :
-2024-01-29 13:37:23 INFO  RegisterPage:27 - Verify Register Text
-2024-01-29 13:37:27 INFO  RegisterPage:59 - Enter User First Name:
-2024-01-29 13:37:29 INFO  RegisterPage:62 - Enter User Last Name:
-2024-01-29 13:37:31 INFO  RegisterPage:65 - Enter User Name:
-2024-01-29 13:37:33 INFO  RegisterPage:68 - Enter Password:
-2024-01-29 13:37:33 INFO  RegisterPage:70 - Click On Register Button:
-2024-01-29 13:37:34 INFO  LoginPage:30 - Verify Register Success Text:
-2024-01-29 13:38:55 INFO  LoginPage:34 - Clicking on register link :
-2024-01-29 13:38:55 INFO  RegisterPage:27 - Verify Register Text
-2024-01-29 13:38:59 INFO  RegisterPage:59 - Enter User First Name:
-2024-01-29 13:39:01 INFO  RegisterPage:62 - Enter User Last Name:
-2024-01-29 13:39:04 INFO  RegisterPage:65 - Enter User Name:
-2024-01-29 13:39:06 INFO  RegisterPage:68 - Enter Password:
-2024-01-29 13:39:06 INFO  RegisterPage:70 - Click On Register Button:
-2024-01-29 13:39:07 INFO  LoginPage:30 - Verify Register Success Text:
-2024-01-29 13:40:00 INFO  LoginPage:34 - Clicking on register link :
-2024-01-29 13:40:01 INFO  RegisterPage:27 - Verify Register Text
-2024-01-29 13:40:05 INFO  RegisterPage:56 - Enter User First Name:
-2024-01-29 13:40:07 INFO  RegisterPage:59 - Enter User Last Name:
-2024-01-29 13:40:09 INFO  RegisterPage:62 - Enter User Name:
-2024-01-29 13:40:11 INFO  RegisterPage:65 - Enter Password:
-2024-01-29 13:40:11 INFO  RegisterPage:67 - Click On Register Button:
-2024-01-29 13:40:11 INFO  LoginPage:30 - Verify Register Success Text:
+2024-01-30 12:32:04 INFO  LoginPage:34 - Clicking on register link :
+2024-01-30 12:32:04 INFO  RegisterPage:27 - Verify Register Text
+2024-01-30 12:32:08 INFO  RegisterPage:56 - Enter User First Name:
+2024-01-30 12:32:10 INFO  RegisterPage:59 - Enter User Last Name:
+2024-01-30 12:32:13 INFO  RegisterPage:62 - Enter User Name:
+2024-01-30 12:32:15 INFO  RegisterPage:65 - Enter Password:
+2024-01-30 12:32:15 INFO  RegisterPage:67 - Click On Register Button:
+2024-01-30 12:32:15 INFO  LoginPage:30 - Verify Register Success Text:
+2024-01-30 13:15:02 INFO  LoginPage:34 - Clicking on register link :
+2024-01-30 13:15:02 INFO  RegisterPage:27 - Verify Register Text
+2024-01-30 13:15:07 INFO  RegisterPage:56 - Enter User First Name:
+2024-01-30 13:15:09 INFO  RegisterPage:59 - Enter User Last Name:
+2024-01-30 13:15:11 INFO  RegisterPage:62 - Enter User Name:
+2024-01-30 13:15:13 INFO  RegisterPage:65 - Enter Password:
+2024-01-30 13:15:13 INFO  RegisterPage:67 - Click On Register Button:
+2024-01-30 13:15:13 INFO  LoginPage:30 - Verify Register Success Text:
